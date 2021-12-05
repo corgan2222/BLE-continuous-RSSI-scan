@@ -11,7 +11,7 @@ Code based on https://github.com/efeuentertainment/BLE-continuous-RSSI-scan
 
 1) clone Repo
 ```bash
-git clone 
+git clone https://github.com/corgan2222/BLE-continuous-RSSI-scan 
 cd BLE-continuous-RSSI-scan
 ```
 
